@@ -11,10 +11,10 @@
   
   <br><br>
   
-  <a href="mailto:여러분의_이메일@gmail.com">
+  <a href="mailto:ah101579@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://velog.io/@JJJJJU5">
+  <a href="https://velog.io/@ohjeonguk_">
     <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" alt="Velog" />
   </a>
 
