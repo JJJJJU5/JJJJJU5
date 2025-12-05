@@ -5,10 +5,9 @@
   </a>
 
   <br>
-
-  I'm a Developer interested in **Back-end & Full-stack** technologies.<br>
-  Currently studying **Java, Spring Boot, React, and SQL**.
-  
+  🌱 안정적이고 효율적인 Spring Boot 기반 백엔드 시스템 구현 역량을 키워가고 있습니다.
+  🔍 지속적인 학습과 성장을 통해 문제를 해결하는 개발자를 목표로 합니다.
+  💡 새로운 기술을 익히고 적용해 보는 과정을 즐깁니다.
   <br><br>
   
   <a href="mailto:ah101579@gmail.com">
