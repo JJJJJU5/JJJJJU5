@@ -56,10 +56,6 @@
   </div>
   <br>
   
-  <a href="https://solved.ac/JJJJJU5">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=JJJJJU5" height="150" alt="Solved.ac Tier"/>
-  </a>
-
   <br><br>
 
   <h3>📕 Latest Blog Posts</h3>
