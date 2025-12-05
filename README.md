@@ -4,7 +4,7 @@
 - 🌱 I'm currently learning **Java, Spring Boot, and React**
 - 🔭 I’m currently working on **Personal Web Projects**
 - 💬 Ask me about **Java, Spring Data JPA**
-- 📫 How to reach me: [이메일주소를_입력하세요@gmail.com]
+- 📫 How to reach me: [ah101579@gmail.com]
 
 ---
 
@@ -33,9 +33,4 @@
 
 ---
 
-### 📈 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JJJJJU5&show_icons=true&theme=transparent&bg_color=30,e96443,904e95" alt="JJJJJU5's Github Stats">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JJJJJU5&layout=compact&theme=transparent&bg_color=30,e96443,904e95" alt="Top Languages">
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JJJJJU5&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
