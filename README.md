@@ -1,9 +1,9 @@
 <div align="center">
-
+<h1>
   <a href="https://github.com/JJJJJU5">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3596F8&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+JJJJJU5;Backend+Developer;Java+%26+Spring+Boot" alt="Typing SVG" />
   </a>
-
+</h1>
   <br>
   🌱 안정적이고 효율적인 Spring Boot 기반 백엔드 시스템 구현 역량을 키워가고 있습니다.<br>
   🔍 지속적인 학습과 성장을 통해 문제를 해결하는 개발자를 목표로 합니다.<br>
