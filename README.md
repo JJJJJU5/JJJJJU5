@@ -49,12 +49,16 @@
 
   <br><br>
 
-  <h3>📈 Stats & Algorithms</h3>
+ <h3>📈 Stats & Algorithms</h3>
   <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=JJJJJU5&show_icons=true&theme=radical" height="150" alt="GitHub Stats"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JJJJJU5&layout=compact&theme=radical&hide_border=true" height="150" alt="Top Languages"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=JJJJJU5&show_icons=true&theme=radical" height="150" alt="GitHub Stats"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JJJJJU5&layout=compact&theme=radical&hide_border=true" height="150" alt="Top Languages"/>
   </div>
   <br>
+  
+  <a href="https://solved.ac/JJJJJU5">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=JJJJJU5" height="150" alt="Solved.ac Tier"/>
+  </a>
   
   <br><br>
 
